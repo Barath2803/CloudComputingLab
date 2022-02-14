@@ -1,9 +1,9 @@
 # Breast Cancer Detection Web Application
 
 Team Members:
-   1 Barath S (1934004)
-   2 HariSudhan V L (1934010)
-   3 Nithishkumaar K P (1934026)
+1. Barath S (1934004)
+2. HariSudhan V L (1934010)
+3. Nithishkumaar K P (1934026)
 
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
