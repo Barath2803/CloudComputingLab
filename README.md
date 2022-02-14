@@ -1,12 +1,9 @@
 # Breast Cancer Detection Web Application
 
-## A Web Application to predict Breast Cancer using SVM  (Deployed on Heroku)
-
-![alt text](https://github.com/hari1462/Breast-Cancer-Detection-Web-App/blob/main/output.jpeg?raw=true)
-
-#### YouTube link to see the working: https://youtu.be/ntSBQy5JriQ
-
-#### Working link: (Deployed on Heroku) https://cancer-flask-app.herokuapp.com/
+Team Members:
+   1 Barath S (1934004)
+   2 HariSudhan V L (1934010)
+   3 Nithishkumaar K P (1934026)
 
 ### 1.Project Requirements or Dependencies
 * Anaconda Python (to get ML Libraries)
@@ -45,6 +42,3 @@ Use this for prediction for model and to show the output
 ### 6. Adding form to flask app
  
 ### 7.Integrating web application with machine learning backend.
-
-### 8. Deployment on Heroku
-
